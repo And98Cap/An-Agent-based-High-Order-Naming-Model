@@ -4,7 +4,7 @@
 
 ## Purpose
 
-The purpose of this project is to replicate the results obtained in the network models of both Minimal Naming Game and its extented High-order version to the agent-based model approach
+
 ---           
 
 ## Contents 
