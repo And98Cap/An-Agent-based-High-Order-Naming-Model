@@ -4,9 +4,7 @@
 
 ## Purpose
 
-  The purpose of this project is to correctly classify a set of images showing five different types of fruits using a CNN approach with
-  various pre-trained models (VGG16, InceptionV3, EfficientNetB0)
-
+The purpose of this project is to replicate the results obtained in the network models of both Minimal Naming Game and its extented High-order version to the agent-based model approach
 ---           
 
 ## Contents 
